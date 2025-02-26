@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1738499144 source:d:\games\olympiads\olympiads\taskc1001.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+	<map>
+	<unordered_map>
+
+1738506241 source:d:\games\olympiads\olympiads\task999c.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+	<map>
+	<unordered_map>
+
+1738509551 source:d:\games\olympiads\olympiads\1002a.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+	<map>
+	<unordered_map>
+
+1738686091 source:d:\games\olympiads\olympiads\1002b.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+	<map>
+	<unordered_map>
+
+1738691478 source:d:\games\olympiads\olympiads\2020.1ee.cpp
+	<iostream>
+	<vector>
+	<bitset>
+
+1738696784 source:d:\games\olympiads\olympiads\2020.2ee.cpp
+	<iostream>
+	<vector>
+
+1738767201 source:d:\games\olympiads\olympiads\ee32020.cpp
+	<vector>
+
+1740308890 source:d:\games\olympiads\olympiads\test.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<vector>
+	<iostream>
+
+1739387097 source:d:\games\olympiads\olympiads\2015lio1task.cpp
+	<vector>
+	<iostream>
+	<queue>
+	<string>
+	<utility>
+	<deque>
+	<cstdio>
+
+1740425863 source:d:\games\olympiads\olympiads\testgen.cpp
+	<iostream>
+	<cstdio>
+	<iostream>
+
+1740161034 source:d:\games\olympiads\olympiads\2015lio2task.cpp
+	<vector>
+	<iostream>
+	<cstdio>
+	<stack>
+
+1739472258 source:d:\games\olympiads\olympiads\1003a.cpp
+	<string>
+	<vector>
+	<cassert>
+	<iostream>
+
+1739473154 source:d:\games\olympiads\olympiads\1003b.cpp
+	<string>
+	<vector>
+	<cassert>
+	<iostream>
+
+1740083737 source:d:\games\olympiads\olympiads\1003c.cpp
+	<string>
+	<vector>
+	<cassert>
+	<iostream>
+	<algorithm>
+	<cstdio>
+
+1740161052 source:d:\games\olympiads\olympiads\2017liotask1.cpp
+	<vector>
+	<iostream>
+	<cstdio>
+
+1740249271 source:d:\games\olympiads\olympiads\2017liotask2.cpp
+	<vector>
+	<iostream>
+	<bitset>
+
+1740308039 source:d:\games\olympiads\olympiads\lio2017task3.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+
+1740332189 source:d:\games\olympiads\olympiads\lio2017task4.cpp
+	<vector>
+	<iostream>
+	<bitset>
+	<cstdio>
+
+1740420919 source:d:\games\olympiads\olympiads\2017liotask5.cpp
+	<cmath>
+	<iostream>
+	<vector>
+	<cstdio>
+
+1740423904 source:d:\games\olympiads\olympiads\2024liotask1.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+
+1740510554 source:d:\games\olympiads\olympiads\2024liotask4.cpp
+	<vector>
+	<iostream>
+	<queue>
+
+1740511639 source:d:\games\olympiads\olympiads\2024liotask3.cpp
+	<vector>
+	<iostream>
+

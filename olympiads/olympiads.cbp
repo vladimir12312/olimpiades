@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="olympiads" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/olympiads" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/olympiads" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="1002A.cpp" />
+		<Unit filename="1002B.cpp" />
+		<Unit filename="1003A.cpp" />
+		<Unit filename="1003B.cpp" />
+		<Unit filename="1003C.cpp" />
+		<Unit filename="2015lio1task.cpp" />
+		<Unit filename="2015lio2task.cpp" />
+		<Unit filename="2017liotask1.cpp" />
+		<Unit filename="2017liotask2.cpp" />
+		<Unit filename="2017liotask5.cpp" />
+		<Unit filename="2024liotask1.cpp" />
+		<Unit filename="2024liotask3.cpp" />
+		<Unit filename="2024liotask4.cpp" />
+		<Unit filename="lio2017task3.cpp" />
+		<Unit filename="lio2017task4.cpp" />
+		<Unit filename="task999C.cpp" />
+		<Unit filename="taskC1001.cpp" />
+		<Unit filename="test.cpp" />
+		<Unit filename="testgen.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
